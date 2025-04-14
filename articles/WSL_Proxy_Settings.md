@@ -3,7 +3,7 @@ title: "WSLの起動時にWindowsのProxy設定をコピーする方法"
 emoji: "🐱‍🏍"
 type: "tech" # tech: 技術記事 / idea: アイデア
 topics: ["Windows", "WSL", "Proxy"]
-published: false
+published: True
 ---
 
 ## 課題感
@@ -164,3 +164,4 @@ setup_proxy_from_windows
 ## まとめと反省点
 
 `sudo`が必要なので起動時にパスワード聞かれるのがちょっと面倒くさいですが、いちいち設定を変えるより楽になりました。
+他にいい方法があればぜひ教えてください。
